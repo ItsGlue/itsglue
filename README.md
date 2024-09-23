@@ -5,7 +5,7 @@
 
 <!-- Container for the image and text, with a border around them -->
 <div style="display: flex; align-items: flex-start; border: 2px solid black; padding: 20px; margin-bottom: 20px; max-width: 700px;">
-  <img src="https://github.com/user-attachments/assets/eefe8f46-ebff-4749-9ba7-c9c948d6905e" alt="Screenshot 2024-09-23" width="200" style="border: 2px solid black; margin-right: 20px; border-radius: 15px;"/>
+  <img src="https://github.com/user-attachments/assets/eefe8f46-ebff-4749-9ba7-c9c948d6905e" alt="Screenshot 2024-09-23" width="200" style="border: 2px solid black; margin-right: 20px; border-radius: 40px;"/>
   <p>Hello! I'm Glue, a game developer who loves creating interactive experiences. Check out my latest projects on Itch.io, and feel free to reach out for collaborations!</p>
 </div>
 
