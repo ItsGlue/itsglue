@@ -5,7 +5,8 @@
 
 <div style="display: flex; align-items: center;">
   <img align="left" src="https://github.com/user-attachments/assets/eefe8f46-ebff-4749-9ba7-c9c948d6905e" alt="Screenshot 2024-09-23" width="200" style="border: 2px solid black; margin-right: 20px;"/>
-  <p>A mobile app I'm developing :>
+  <p> A cool fish themed productivity app I'm developing :D</p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
