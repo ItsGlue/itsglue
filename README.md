@@ -2,6 +2,7 @@
 <h3 align="center">I make games :D</h3>
 
 - 🎮 Itch.io [https://glueissticky.itch.io/](https://glueissticky.itch.io/)
+![Screenshot 2024-09-23 at 12 05 35 AM](https://github.com/user-attachments/assets/eefe8f46-ebff-4749-9ba7-c9c948d6905e)
 
 
 <h3 align="left">Languages and Tools:</h3>
